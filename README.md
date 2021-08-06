@@ -1,6 +1,6 @@
 # Electric Gap
 
-### This is a work in progress... Hold on tight, we are having the conversations to get started and will be back here by the end of June 2021!
+### This is a work in progress... Hold on tight, we are having the conversations to get started and will be back here soon!
 
 Electric Gap is an open source project that delivers accessible explanations to the complex and technological concepts we encounter in everyday life. Electric Gap aims to bridge the knowledge gap, through fun illustrations and memorable analogies that everyone is familiar with. It enables every person to understand the theories, technologies and ideas that are driving the world. 
 
